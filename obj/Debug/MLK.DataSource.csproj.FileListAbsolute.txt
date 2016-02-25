@@ -1,0 +1,8 @@
+C:\dev\local\MLK.DataSource\bin\Debug\MLK.DataSource.dll.config
+C:\dev\local\MLK.DataSource\bin\Debug\MLK.DataSource.dll
+C:\dev\local\MLK.DataSource\bin\Debug\MLK.DataSource.pdb
+C:\dev\local\MLK.DataSource\bin\Debug\HtmlAgilityPack.dll
+C:\dev\local\MLK.DataSource\bin\Debug\HtmlAgilityPack.pdb
+C:\dev\local\MLK.DataSource\bin\Debug\HtmlAgilityPack.xml
+C:\dev\local\MLK.DataSource\obj\Debug\MLK.DataSource.dll
+C:\dev\local\MLK.DataSource\obj\Debug\MLK.DataSource.pdb
